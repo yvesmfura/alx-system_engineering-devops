@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((10#${WATER//[ewatrb]/5}${STIR//[ti.sr]/5}%7*99/49+2387/33))"
+$((16#$WATER + 16#$STIR))
