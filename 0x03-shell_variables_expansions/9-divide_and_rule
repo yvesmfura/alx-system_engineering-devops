@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($POWER / $DIVIDE))
+$((16#$WATER + 16#$STIR))
