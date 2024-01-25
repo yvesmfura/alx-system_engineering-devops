@@ -1,3 +1,4 @@
+#!/bin/bash
 #!/usr/bin/env bash
 # Displays 'Best School'. Displays Hi on the 9th iteration
 

@@ -1,3 +1,4 @@
+#!/bin/bash
 #!/usr/bin/env bash
 # Parses Apache log files in list format.
 #   Groups visitors by IP and HTTP status code.

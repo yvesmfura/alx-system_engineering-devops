@@ -1,3 +1,4 @@
+#!/bin/bash
 #!/usr/bin/env bash
 # Tells a story based on the contents of the `/etc/passwd` file.
 

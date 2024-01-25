@@ -1,3 +1,4 @@
+#!/bin/bash
 #!/usr/bin/env bash
 # Displays 'Best School' in stdout 10 times using the until loop
 

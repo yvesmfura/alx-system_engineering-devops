@@ -1,3 +1,4 @@
+#!/bin/bash
 #!/usr/bin/env bash
 # Displays information about the file `school`.
 

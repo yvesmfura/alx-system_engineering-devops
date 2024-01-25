@@ -1,3 +1,4 @@
+#!/bin/bash
 #!/usr/bin/env bash
 # Displays the time for 12 horus and 59 minutes.
 #   Displays hours from 0 to 12
